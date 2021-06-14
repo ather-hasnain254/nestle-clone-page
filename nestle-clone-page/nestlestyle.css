@@ -1,0 +1,164 @@
+body > section.logo-nav > nav > div > ul > li:nth-child(n) > a > span:hover{
+    color: #e9007f;
+
+}
+.colors{
+    color: black;
+    font-weight: bold;
+}
+.contant-spaces{
+    margin-right: 4rem ;
+}
+.cont{
+    width: 86.599%;
+    height: auto;
+    margin: 0rem 7rem;
+}
+.cont2{
+    width: 86.599%;
+    height: auto;
+    margin-left: 7rem;
+
+}
+.section3{
+    background-color:#f04ca5;
+}
+
+
+.button{
+    background-color: #e9007f;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-right: 9rem;
+    padding: 1.1rem 3.7rem;
+    font-size: 0.8rem;
+
+}
+.button:hover{
+    text-decoration: none;
+    color: white;
+    background-color: #86084d;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: white;
+    margin-left: -2.5rem;
+}
+.text h6{
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.text p{
+    font-size: 3rem;
+    /* text-align: center; */
+    font-weight: 100;
+    padding-right: 8rem;
+    line-height: 3rem;
+    padding-bottom: 3rem;    
+}
+.cont3{
+    margin-left: 7rem;
+    width: 86.599%;
+    height: auto;
+
+}
+body > section:nth-child(4) > div > div > h6{
+    position: absolute;
+    margin-left: 50rem;
+    margin-bottom: 25rem;
+    letter-spacing: 0.2rem;
+    line-height: 1.6rem;
+}
+body > section:nth-child(4) > div > div > p{
+    position: absolute;
+    margin-left: 50rem;
+    margin-bottom: 10rem;
+    letter-spacing: 0.2rem;
+    line-height: 3rem;
+    font-weight: 150;
+    font-size: 2.5rem;
+    color: #023f97;
+}
+
+body > section:nth-child(5) > div > div > div.text1.col.col-lg-4.col-md-4.col-12.w-100 > h6{
+    position: absolute;
+    margin-top: 5rem;
+    margin-left: 7rem;
+    color: #343a40;
+    font-weight: 650;
+    line-height: 2rem;
+}
+body > section:nth-child(5) > div > div > div.text1.col.col-lg-4.col-md-4.col-12.w-100 > p{
+    margin-top: 8rem;
+    margin-left: 7rem;
+    color: white;
+    font-size: 2.61rem;
+    font-weight: 250;
+    line-height: 1.6;
+    margin-bottom: 5rem;
+}
+body > section:nth-child(5) > div > div > div.text1.col.col-lg-4.col-md-4.col-12.w-100 > a{
+    text-decoration: none;
+    color: white;
+    margin-left: 7rem;
+    border-radius: 5px;
+    padding: 12px 48px;
+    background-color: #00b09d ;
+    font-weight: bold;
+}
+body > section:nth-child(5) > div > div > div.text1.col.col-lg-4.col-md-4.col-12.w-100 > a:hover{
+    background-color: #e9007f;
+    color: white;
+}
+.cont5{
+    width: 86.599%;
+    margin-left: 7rem;
+    height: auto;
+}
+body > section:nth-child(6) > div > div > div.text2.col.col-lg-4.col-md-4.col-12 > h6{
+    margin-right: 14rem;
+    margin-bottom: 2rem;
+    letter-spacing: 0.1rem;
+
+}
+body > section:nth-child(6) > div > div > div.text2.col.col-lg-4.col-md-4.col-12 > p{
+    color: #023f97;
+    font-size: 2.5rem;
+    font-weight: 250;
+    margin-bottom: 5rem;
+}
+body > section:nth-child(6) > div > div > div.text2.col.col-lg-4.col-md-4.col-12 > a{
+    border-radius: 5px;
+    /* border: 2px solid black; */
+    padding: 12px 48px;
+    text-decoration: none;
+    color: #023f97;
+    font-weight: bold;
+    background-color:#e5edf6 ;
+}
+body > section:nth-child(6) > div > div > div.text2.col.col-lg-4.col-md-4.col-12 > a:hover{
+    background-color: #e9007f;
+    color: white;
+}
+
+body > section:nth-child(7) > div > div > div.text.col-lg-4.col-md-4.col-12 > a{
+    background-color: #44b0c0;
+    color: white;
+    padding: 15px 64px;
+    letter-spacing: 0.125rem;
+}
+body > section:nth-child(7) > div > div > div.text.col-lg-4.col-md-4.col-12 > a:hover{
+    background-color: #e9007f;
+    color: white;
+}
+body > section:nth-child(7) > div > div > div.text.col-lg-4.col-md-4.col-12 > h6{
+    color: #343a40;
+    letter-spacing: 0.2rem;
+
+}
